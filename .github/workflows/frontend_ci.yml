@@ -1,5 +1,4 @@
 # week07/.github/workflows/frontend_ci.yml
-# test FE flow 
 name: Frontend CI - Build & Push Image
 
 on:
